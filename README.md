@@ -10,7 +10,7 @@
 
 全程在本機處理，不需要帳號，圖片也不會上傳。
 
-[![最新版本](https://img.shields.io/github/v/release/th1230/Framio?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=5E6AD2)](https://github.com/th1230/Framio/releases/latest)
+[![最新版本](https://img.shields.io/github/v/release/th1230/Framio?display_name=release&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=5E6AD2)](https://github.com/th1230/Framio/releases/latest)
 ![支援平台](https://img.shields.io/badge/Windows-10%20%7C%2011%20(x64)-5E6AD2)
 
 ### [下載最新版](https://github.com/th1230/Framio/releases/latest)
